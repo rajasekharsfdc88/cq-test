@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>CQ_Test_AccountTrigger</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>CQ_AccountTrigger</members>
+		<name>ApexTrigger</name>
+	</types>
+	<types>
+		<members>Compliancequest</members>
+		<name>CustomApplication</name>
+	</types>
+	<types>
+		<members>Account</members>
+		<members>SQX_Team_Members__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Account_Admin</members>
+		<name>PermissionSet</name>
+	</types>
+	<types>
+		<members>Compliance Quest SD Profile</members>
+		<name>Profile</name>
+	</types>
+	<version>55.0</version>
+</Package>
